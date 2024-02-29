@@ -1,0 +1,109 @@
+.Tools{
+    margin-top: 2rem;
+   display: flex;
+
+   /* align-items: center; */
+   /* justify-content: space-between;
+    */
+    /* justify-content: last baseline;
+    
+    */
+    /* justify-content: center; */
+}
+
+.tools{
+  width: 73px;
+  height: 20px;
+  top: 243px;
+  left: 583px;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4B5665;
+
+  
+
+  
+  
+}
+.aws-builder{
+  width: 106px;
+  height: 20px;
+  top: 243px;
+  left: 425px;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4B5665;
+  
+  
+}
+
+.start-build{
+  width: 73px;
+  height: 20px;
+  top: 243px;
+  left: 583px;
+  font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #4B5665;
+
+  
+
+      
+
+}
+.build-supplies{
+  width: 73px;
+  height: 20px;
+  top: 243px;
+  left: 583px;
+  font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #4B5665;
+
+}
+
+.tooling{
+  width: 73px;
+  height: 20px;
+  top: 243px;
+  left: 583px;
+  font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #4B5665;
+
+}
+
+.blue-hosting{
+  width: 73px;
+  height: 20px;
+  top: 243px;
+  left: 583px;
+  font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #4B5665;
+
+}

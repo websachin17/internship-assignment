@@ -1,0 +1,16 @@
+.navbar{
+display: flex;
+/* background-color: black;
+ */
+  background-color: #212731;
+
+align-items: center;
+
+justify-content: center;
+
+/* width: 1614px; */
+height: 64px;
+
+
+     
+}

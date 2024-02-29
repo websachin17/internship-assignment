@@ -1,0 +1,55 @@
+  .second-last{
+
+
+    display: flex;
+
+    justify-content: space-between;
+
+
+    /* background-color: aqua; */
+
+       
+  }
+
+
+  .text{
+      
+    width: 398px;
+    height: 88px;
+    top: 2301px;
+    left: 338px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #5C6874;
+
+    
+    
+
+  }
+
+
+  .signup{
+
+    /* background: #5C6874; */
+
+    width: 97px;
+height: 52px;
+top: 2309px;
+left: 1235px;
+border-radius: 0px, 12px, 12px, 0px;
+
+background: #1B88F4;
+
+ display: flex;
+ justify-content: center;
+
+ align-items: center;
+
+
+
+  }
